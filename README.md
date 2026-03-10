@@ -9,4 +9,4 @@
   - library app: [site](https://eudooyoung.github.io/odin-skeleton-project-library/), [code](https://github.com/eudooyoung/odin-skeleton-project-library.git)
  
 ### spring project:
-  - matching-bot app: [code](https://github.com/eudooyoung/matching_bot.git)
+  - matching-bot app: [code](https://github.com/eudooyoung/matching_bot.git), [presentation](https://www.canva.com/design/DAHDg3kwRtU/EGSvbmThjeOLJUcXhSGjCg/edit?utm_content=DAHDg3kwRtU&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton)
