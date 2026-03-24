@@ -1,13 +1,13 @@
-### portfolio
-  [current version](https://www.canva.com/design/DAGrPaYhwfQ/-0WScaUZ29We6kJI--upVA/view?utm_content=DAGrPaYhwfQ&utm_campaign=designshare&utm_medium=link2&utm_source=uniquelinks&utlId=h3452776b57)
+## Portfolio
+  [Current version](https://www.canva.com/design/DAGrPaYhwfQ/-0WScaUZ29We6kJI--upVA/view?utm_content=DAGrPaYhwfQ&utm_campaign=designshare&utm_medium=link2&utm_source=uniquelinks&utlId=h3452776b57)
 
-### toy projects(html + css + js):
-- odin
-  - homepage(WIP): [site](https://eudooyoung.github.io/odin-homepage/), [code](https://github.com/eudooyoung/odin-homepage.git)
-  - battleship app: [site](https://eudooyoung.github.io/odin-battleship/), [code](https://github.com/eudooyoung/odin-battleship.git)
-  - weather app: [site](https://eudooyoung.github.io/odin-weather-app/), [code](https://github.com/eudooyoung/odin-weather-app.git)
-  - to-do-list app: [site](https://eudooyoung.github.io/odin-to-do-list/), [code](https://github.com/eudooyoung/odin-to-do-list.git)
-  - library app: [site](https://eudooyoung.github.io/odin-skeleton-project-library/), [code](https://github.com/eudooyoung/odin-skeleton-project-library.git)
+## Toy projects(Frontend)
+- **Odin Project**
+  - Homepage(WIP): [Site](https://eudooyoung.github.io/odin-homepage/), [Code](https://github.com/eudooyoung/odin-homepage.git)
+  - Battleship: [Site](https://eudooyoung.github.io/odin-battleship/), [Code](https://github.com/eudooyoung/odin-battleship.git)
+  - Weather: [Site](https://eudooyoung.github.io/odin-weather-app/), [Code](https://github.com/eudooyoung/odin-weather-app.git)
+  - Todo List: [Site](https://eudooyoung.github.io/odin-to-do-list/), [Code](https://github.com/eudooyoung/odin-to-do-list.git)
+  - Library: [Site](https://eudooyoung.github.io/odin-skeleton-project-library/), [Code](https://github.com/eudooyoung/odin-skeleton-project-library.git)
  
-### spring project:
-  - matching-bot app: [code](https://github.com/eudooyoung/matching_bot.git), [presentation](https://www.canva.com/design/DAHDg3kwRtU/TFzPZgsmGkKKNgrC4La65Q/view?utm_content=DAHDg3kwRtU&utm_campaign=designshare&utm_medium=link2&utm_source=uniquelinks&utlId=hae736eefda)
+## Spring project
+  - Matching bot: [Code](https://github.com/eudooyoung/matching_bot.git), [Presentation](https://www.canva.com/design/DAHDg3kwRtU/TFzPZgsmGkKKNgrC4La65Q/view?utm_content=DAHDg3kwRtU&utm_campaign=designshare&utm_medium=link2&utm_source=uniquelinks&utlId=hae736eefda)
