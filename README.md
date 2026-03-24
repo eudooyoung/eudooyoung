@@ -3,6 +3,7 @@
 
 ### toy projects(html + css + js):
 - odin
+  - homepage(WIP): [site](https://eudooyoung.github.io/odin-homepage/), [code](https://github.com/eudooyoung/odin-homepage.git)
   - battleship app: [site](https://eudooyoung.github.io/odin-battleship/), [code](https://github.com/eudooyoung/odin-battleship.git)
   - weather app: [site](https://eudooyoung.github.io/odin-weather-app/), [code](https://github.com/eudooyoung/odin-weather-app.git)
   - to-do-list app: [site](https://eudooyoung.github.io/odin-to-do-list/), [code](https://github.com/eudooyoung/odin-to-do-list.git)
