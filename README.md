@@ -4,12 +4,13 @@
 ## Odin projects
 
 ### Frontend
-  - CV Application: [Site](https://adorable-frangipane-5fb1af.netlify.app/), [Code](https://github.com/eudooyoung/odin-CV-Application.git)
-  - Homepage(WIP): [Site](https://eudooyoung.github.io/odin-homepage/), [Code](https://github.com/eudooyoung/odin-homepage.git)
-  - Battleship: [Site](https://eudooyoung.github.io/odin-battleship/), [Code](https://github.com/eudooyoung/odin-battleship.git)
-  - Weather: [Site](https://eudooyoung.github.io/odin-weather-app/), [Code](https://github.com/eudooyoung/odin-weather-app.git)
-  - Todo List: [Site](https://eudooyoung.github.io/odin-to-do-list/), [Code](https://github.com/eudooyoung/odin-to-do-list.git)
-  - Library: [Site](https://eudooyoung.github.io/odin-skeleton-project-library/), [Code](https://github.com/eudooyoung/odin-skeleton-project-library.git)
+  - Memory-Card: [Preview](https://odin-memory-card-eudooyoung.netlify.app/), [Repo](https://github.com/eudooyoung/odin-memory-card.git)
+  - CV Application: [Preview](https://adorable-frangipane-5fb1af.netlify.app/), [Repo](https://github.com/eudooyoung/odin-CV-Application.git)
+  - Homepage(WIP): [Preview](https://eudooyoung.github.io/odin-homepage/), [Repo](https://github.com/eudooyoung/odin-homepage.git)
+  - Battleship: [Preview](https://eudooyoung.github.io/odin-battleship/), [Repo](https://github.com/eudooyoung/odin-battleship.git)
+  - Weather: [Preview](https://eudooyoung.github.io/odin-weather-app/), [Repo](https://github.com/eudooyoung/odin-weather-app.git)
+  - Todo List: [Preview](https://eudooyoung.github.io/odin-to-do-list/), [Repo](https://github.com/eudooyoung/odin-to-do-list.git)
+  - Library: [Preview](https://eudooyoung.github.io/odin-skeleton-project-library/), [Repo](https://github.com/eudooyoung/odin-skeleton-project-library.git)
  
 ## Spring project
-  - Matching bot: [Code](https://github.com/eudooyoung/matching_bot.git), [Presentation](https://www.canva.com/design/DAHDg3kwRtU/TFzPZgsmGkKKNgrC4La65Q/view?utm_content=DAHDg3kwRtU&utm_campaign=designshare&utm_medium=link2&utm_source=uniquelinks&utlId=hae736eefda)
+  - Matching bot: [Repo](https://github.com/eudooyoung/matching_bot.git), [Presentation](https://www.canva.com/design/DAHDg3kwRtU/TFzPZgsmGkKKNgrC4La65Q/view?utm_content=DAHDg3kwRtU&utm_campaign=designshare&utm_medium=link2&utm_source=uniquelinks&utlId=hae736eefda)
