@@ -4,6 +4,7 @@
 ## Odin projects
 
 ### Frontend
+  - Shopping-Cart: [Preview](https://eudooyoung-shoppingcart.netlify.app/), [Repo](https://github.com/eudooyoung/odin-shopping-cart.git)
   - Memory-Card: [Preview](https://odin-memory-card-eudooyoung.netlify.app/), [Repo](https://github.com/eudooyoung/odin-memory-card.git)
   - CV Application: [Preview](https://adorable-frangipane-5fb1af.netlify.app/), [Repo](https://github.com/eudooyoung/odin-CV-Application.git)
   - Homepage(WIP): [Preview](https://eudooyoung.github.io/odin-homepage/), [Repo](https://github.com/eudooyoung/odin-homepage.git)
