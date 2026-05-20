@@ -3,6 +3,9 @@
 
 ## Odin projects
 
+### Backend
+  - Inventory Application: [Preview](https://odin-inventory-application-h4im.onrender.com/), [Repo](https://github.com/eudooyoung/odin-inventory-application.git)
+
 ### Frontend
   - Shopping-Cart: [Preview](https://eudooyoung-shoppingcart.netlify.app/), [Repo](https://github.com/eudooyoung/odin-shopping-cart.git)
   - Memory-Card: [Preview](https://odin-memory-card-eudooyoung.netlify.app/), [Repo](https://github.com/eudooyoung/odin-memory-card.git)
@@ -13,5 +16,5 @@
   - Todo List: [Preview](https://eudooyoung.github.io/odin-to-do-list/), [Repo](https://github.com/eudooyoung/odin-to-do-list.git)
   - Library: [Preview](https://eudooyoung.github.io/odin-skeleton-project-library/), [Repo](https://github.com/eudooyoung/odin-skeleton-project-library.git)
  
-## Spring project
+## Multicampus Bootcamp
   - Matching bot: [Repo](https://github.com/eudooyoung/matching_bot.git), [Presentation](https://www.canva.com/design/DAHDg3kwRtU/TFzPZgsmGkKKNgrC4La65Q/view?utm_content=DAHDg3kwRtU&utm_campaign=designshare&utm_medium=link2&utm_source=uniquelinks&utlId=hae736eefda)
