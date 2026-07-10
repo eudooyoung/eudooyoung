@@ -3,7 +3,12 @@
 
 ## Odin projects
 
-### Backend
+### Fullstack: Express + React
+- Blog
+  - [Public Link](https://odin-blog-api-user.netlify.app/)  
+  - [Admin Link](https://eudooyoung-odin-blog-api-admin.netlify.app/)
+
+### Backend: Express SSR
   - Inventory Application: [Preview](https://odin-inventory-application-h4im.onrender.com/), [Repo](https://github.com/eudooyoung/odin-inventory-application.git)
 
 ### Frontend
@@ -17,4 +22,5 @@
   - Library: [Preview](https://eudooyoung.github.io/odin-skeleton-project-library/), [Repo](https://github.com/eudooyoung/odin-skeleton-project-library.git)
  
 ## Multicampus Bootcamp
+### Backend: Spring Boot SSR
   - Matching bot: [Repo](https://github.com/eudooyoung/matching_bot.git), [Presentation](https://www.canva.com/design/DAHDg3kwRtU/TFzPZgsmGkKKNgrC4La65Q/view?utm_content=DAHDg3kwRtU&utm_campaign=designshare&utm_medium=link2&utm_source=uniquelinks&utlId=hae736eefda)
