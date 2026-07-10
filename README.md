@@ -7,6 +7,7 @@
 - Blog
   - [Public Link](https://odin-blog-api-user.netlify.app/)  
   - [Admin Link](https://eudooyoung-odin-blog-api-admin.netlify.app/)
+  - [Repo](https://github.com/eudooyoung/odin-blog-api.git)
 
 ### Backend: Express SSR
   - Inventory Application: [Preview](https://odin-inventory-application-h4im.onrender.com/), [Repo](https://github.com/eudooyoung/odin-inventory-application.git)
