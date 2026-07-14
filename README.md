@@ -10,7 +10,10 @@
   - [Repo](https://github.com/eudooyoung/odin-blog-api.git)
 
 ### Backend: Express SSR
+  - File Uploader: [Preview](https://odin-file-uploader-wtie.onrender.com/), [Repo](https://github.com/eudooyoung/odin-file-uploader)
+  - Members Only: [Preview](https://odin-members-only-fi8q.onrender.com/home), [Repo](https://github.com/eudooyoung/odin-members-only)
   - Inventory Application: [Preview](https://odin-inventory-application-h4im.onrender.com/), [Repo](https://github.com/eudooyoung/odin-inventory-application.git)
+  - Mini Message App: [Preview](https://odin-mini-message-board-on2k.onrender.com/), [Repo](https://github.com/eudooyoung/odin-mini-message-board)
 
 ### Frontend
   - Shopping-Cart: [Preview](https://eudooyoung-shoppingcart.netlify.app/), [Repo](https://github.com/eudooyoung/odin-shopping-cart.git)
