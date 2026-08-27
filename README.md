@@ -4,6 +4,9 @@
 ## Odin projects
 
 ### Fullstack: Express + React
+- Photo taggin app: Find Geeks
+  - [Live Demo](https://find-geeks.netlify.app/)
+  - [Repo](https://github.com/eudooyoung/odin-photo-tagging-app)
 - Blog
   - [Public Link](https://odin-blog-api-user.netlify.app/)  
   - [Admin Link](https://eudooyoung-odin-blog-api-admin.netlify.app/)
