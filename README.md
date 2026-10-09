@@ -1,9 +1,12 @@
 ## Portfolio
-  [Current version](https://www.canva.com/design/DAGrPaYhwfQ/-0WScaUZ29We6kJI--upVA/view?utm_content=DAGrPaYhwfQ&utm_campaign=designshare&utm_medium=link2&utm_source=uniquelinks&utlId=h3452776b57)
+  [Current version](https://eudooyoung.github.io/portfolio/)
 
 ## Odin projects
 
 ### Fullstack: Express + React
+- Messaging App: Leaves
+  - [Live Demo](https://leaves-messaging.netlify.app/)
+  - [Repo](https://github.com/eudooyoung/odin-messaging-app)
 - Photo Tagging App: Find Geeks
   - [Live Demo](https://find-geeks.netlify.app/)
   - [Repo](https://github.com/eudooyoung/odin-photo-tagging-app)
