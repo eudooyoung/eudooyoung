@@ -1,6 +1,6 @@
 ## Portfolio
-  [PPT](https://eudooyoung.github.io/portfolio/)  
-  [Description](https://eudooyoung.github.io/portfolio/portfolio_description.pdf)
+  [PDF](https://eudooyoung.github.io/portfolio/)  
+  [Text-Description](https://eudooyoung.github.io/portfolio/portfolio_description.pdf)
 
 ## Odin projects
 
