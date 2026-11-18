@@ -1,3 +1,6 @@
+## Resume
+  [PDF](https://eudooyoung.github.io/portfolio/resume.pdf)
+
 ## Portfolio
   [PDF](https://eudooyoung.github.io/portfolio/)  
   [Text-Description](https://eudooyoung.github.io/portfolio/portfolio_description.pdf)
